@@ -39,5 +39,6 @@ const kBMITextStyle = TextStyle(
 );
 
 const kBodyTextStyle = TextStyle(
+  color: Colors.cyanAccent,
   fontSize: 22.0,
 );
